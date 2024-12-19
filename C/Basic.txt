@@ -1,0 +1,32 @@
+*C is a high level programing language
+*C is to easy to learn and understand.
+*C is portable , it can be run on any operating system
+*C is a case sensitive(Syntax based) programing language
+*C is a procedure oriented programing language
+*C is a permussive programing language
+*C has standard library functions
+		#include<stdio.h>
+		#include<conio.h> to clear first output
+*C has Platform dependency
+
+		HISTORY OF C LANGUAGE
+
+ALGOL 1958 Algorthimic language European and ACSC General
+
+CPL 1963 Combined p rograming language Mathematical laboratory of university of cambridge Difficult to implement
+
+BCPL 1967 Basic Cbl Martian Richards at Cambridge university some special problems
+
+B 1970 B language Kenthomson at AT and T labs For some problem
+
+C 1972 C Language Dennim Richie at AT and T labs Simple to learn
+
+
+
+
+b.tech smart classes
+study to night
+javatpoint
+
+
+	FEATURES OF C
